@@ -1,4 +1,4 @@
-### Hi there 👋
+### A Java Script/React developer from Argentina 
 
 <!--
 **Noxval/Noxval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
